@@ -28,7 +28,7 @@ To enhance YOLOv8's accuracy by applying a complete data-centric ML pipeline on 
 | `yolov8newdomain (2).ipynb`   | Final training script with freezing      |
 | `realtime.ipynb`              | Real-time detection (optional)           |
 | `download_metadata.csv`       | Metadata of scraped images               |
-| `results(1).csv`              | Evaluation metrics and results           |
+| `results(1).csv`              | Results                                  |
 | `F1_curve.png`                | Precision-Recall / F1 Curve              |
 | `best_custom.pt`              | Final trained YOLOv8 model               |
 
